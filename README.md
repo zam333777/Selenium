@@ -1,2 +1,0 @@
-# Admin Binewo web tests
-
